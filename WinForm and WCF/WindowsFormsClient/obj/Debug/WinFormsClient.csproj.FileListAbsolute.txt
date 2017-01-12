@@ -1,0 +1,13 @@
+C:\Users\Feuer\Desktop\Новая папка\CHAT\WindowsFormsClient\bin\Debug\WinFormsClient.exe.config
+C:\Users\Feuer\Desktop\Новая папка\CHAT\WindowsFormsClient\bin\Debug\WinFormsClient.exe
+C:\Users\Feuer\Desktop\Новая папка\CHAT\WindowsFormsClient\bin\Debug\WinFormsClient.pdb
+C:\Users\Feuer\Desktop\Новая папка\CHAT\WindowsFormsClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Feuer\Desktop\Новая папка\CHAT\WindowsFormsClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Feuer\Desktop\Новая папка\CHAT\WindowsFormsClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Feuer\Desktop\Новая папка\CHAT\WindowsFormsClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Feuer\Desktop\Новая папка\CHAT\WindowsFormsClient\obj\Debug\WinFormsClient.csprojResolveAssemblyReference.cache
+C:\Users\Feuer\Desktop\Новая папка\CHAT\WindowsFormsClient\obj\Debug\WinFormsClient.WinFormsClient.resources
+C:\Users\Feuer\Desktop\Новая папка\CHAT\WindowsFormsClient\obj\Debug\WinFormsClient.Properties.Resources.resources
+C:\Users\Feuer\Desktop\Новая папка\CHAT\WindowsFormsClient\obj\Debug\WinFormsClient.csproj.GenerateResource.Cache
+C:\Users\Feuer\Desktop\Новая папка\CHAT\WindowsFormsClient\obj\Debug\WinFormsClient.exe
+C:\Users\Feuer\Desktop\Новая папка\CHAT\WindowsFormsClient\obj\Debug\WinFormsClient.pdb
